@@ -1,6 +1,7 @@
 # Agentic RAG Chatbot
 
 A simple, fast **Retrieval‑Augmented Generation (RAG)** chatbot that answers questions from your **PDF documents** using **LangChain**, **Groq**, and **Pinecone**, with a **FastAPI** backend and a clean chat UI.
+<img width="1299" height="609" alt="Capture" src="https://github.com/user-attachments/assets/c7d33a4a-a76f-4573-89ab-9e37677ddcc6" />
 
 ---
 
